@@ -63,6 +63,7 @@ class _NotificationScreenState extends State<NotificationScreen> {
             Expanded(
               child: ListView.separated(
                 itemCount: 5,
+               // scrollDirection: Axis.vertical,
                 itemBuilder: (context, index) {
                   return ListTile(
                     leading: CircleAvatar(
