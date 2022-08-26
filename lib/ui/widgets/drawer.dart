@@ -26,13 +26,13 @@ class NavDrawer extends StatelessWidget {
                 ListTile(
                   leading: CircleAvatar(
                     backgroundImage: NetworkImage(
-                        "https://avatars.githubusercontent.com/u/51439795?v=4"),
+                        "https://avatars.githubusercontent.com/u/71889823?v=4"),
                   ),
-                  title: Text("Soner Karaevli"),
+                  title: Text("Mirac Karaevli"),
                   contentPadding: EdgeInsets.only(
                     left: 10,
                   ),
-                  subtitle: Text("sonerdev@icloud.com"),
+                  subtitle: Text("karaevlimirac3@gmail.com"),
                 ),
               ],
             ),
